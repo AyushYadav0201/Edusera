@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/ManageProfessorJPanel.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/schedule/CourseSchedule.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/professor/Professor.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/professor/CourseOffering.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/professor/Seat.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/ManageSemesterJPanel.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/directory/ProfessorDirectory.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/students/Student.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/professor/Course.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/LICENSE</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/degree/Degree.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/profiles/Role.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/profiles/User.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/Business.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/AdminJPanel.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/PerformanceIndices.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/degree/DegreeRegistry.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/students/Transcript.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/utility/ImportData.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/schedule/CalenderYear.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/nbproject/project.properties</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/directory/UserDirectory.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/students/SeatAssignment.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/professor/CourseCatalog.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/ManageStudentsJPanel.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/profiles/Person.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/ManageDegreesNewJPanel.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/directory/StudentDirectory.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/schedule/Semester.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/degree/Authority.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/business/students/CourseLoad.java</file>
+            <file>file:/C:/Users/Ayush/OneDrive/Desktop/Universities/NEU/AED/assignment-3-teamaar23-main/assignment-3-teamaar23-main/src/edusera/ui/admin/ManageUserJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
